@@ -25,7 +25,9 @@ public class People {
     public void setAge(int age) {
         this.age = age;
     }
-
+public void sayhello(){
+    System.out.println("hello");
+}
     @Override
     public String toString() {
         return "People{" +
