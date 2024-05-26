@@ -1,0 +1,6 @@
+p:
+  name : hyj
+  age : 12
+logging:
+  pattern:
+    dateformat: yyyy-MM-dd
